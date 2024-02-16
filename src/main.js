@@ -1,5 +1,5 @@
 // Code Practice: Scrolling States
-// Name: Tory Swenson
+// Name: Kaylie Lepley
 // Date: 2/9/24
 
 'use strict'
